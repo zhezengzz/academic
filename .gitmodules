@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = gitzz:zhezengzz/zhezengzz.github.io.git
+	branch = main
