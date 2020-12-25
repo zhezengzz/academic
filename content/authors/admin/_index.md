@@ -22,15 +22,19 @@ interests:
 - Probabilistic Inference
 - Probabilistic Graphical Models
 - Weighted Model Integration
+- Kernel Methods
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in Artificial Intelligence
-    institution: From 2018 -- Present, UCLA
+    institution: 2018 -- Present, UCLA
     year: 
   - course: BSc in Mathematics with honors
     institution: 2014 -- 2018, Zhejiang University
+    year:
+  - course: Exchange student in Mathematics
+    institution: 2016 Fall, Ohio State University
     year:
 
 # Social/Academic Networking
@@ -73,6 +77,6 @@ Hi! I'm Zhe Zeng; thanks for visiting my homepage. I'm a third year Ph.D. studen
 My research interests primarily lie in the intersection of Artificial Intelligence and formal methods. The goal of my research is to combine probabilistic and formal verification techniques to deal with both uncertainty as well as relational structure, and to build AI systems that are able to efficiently and reliably make inference and learn from heterogeneous data.
 
 I received my bachelor's degree in Mathematics at [Zhejiang University](http://www.zju.edu.cn/).
-As an undergraduate student, I was lucky to collaborate with [Prof. Qiang Liu](https://www.cs.utexas.edu/~lqiang/) at [Dartmouth College](http://home.dartmouth.edu/) in theory and methods for robust, scalable, and nonparametric variational inference.
+As an undergraduate student, I was lucky to collaborate with Professor [Qiang Liu](https://www.cs.utexas.edu/~lqiang/) at [Dartmouth College](http://home.dartmouth.edu/) in theory and methods for robust, scalable, and nonparametric variational inference.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
