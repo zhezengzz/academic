@@ -1,24 +1,48 @@
 ---
-title: Example Talk
+title: Efficient search-based weighted model integration
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: TPM Workshop at ICML 2019
+event_url: https://sites.google.com/view/icmltpm2019
 
-location: Wowchemy HQ
+location: Long Beach
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: 
+  region: 
+  postcode:
+  country:
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: |
+  <p>KR2ML Workshop at NeurIPS 2019</p>
+  <div id="presentation-embed-38917300"></div>
+  <script src='https://slideslive.com/embed_presentation.js'></script>
+  <script>
+      embed = new SlidesLiveEmbed('presentation-embed-38917300', {
+          presentationId: '38917300',
+          autoPlay: false,
+          verticalEnabled: false,
+          startTime: '360',
+      });
+  </script>
+
+
+abstract: |
+  <p>Paper presentation.</p>
+  <div id="presentation-embed-38917300"></div>
+  <script src='https://slideslive.com/embed_presentation.js'></script>
+  <script>
+      embed = new SlidesLiveEmbed('presentation-embed-38917300', {
+          presentationId: '38917300',
+          autoPlay: false,
+          verticalEnabled: false,
+          startTime: '360',
+      });
+  </script>
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2019-06-14T09:05:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -31,14 +55,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -49,18 +73,18 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+projects: []
+# - example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
@@ -70,4 +94,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
