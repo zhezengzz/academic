@@ -20,8 +20,9 @@ bio: My research interests include probabilistic inference, probabilistic graphi
 interests:
 - Artificial Intelligence
 - Probabilistic Inference
-- Probabilistic Graphical Models
 - Weighted Model Integration
+- SMT constraints
+- Probabilistic Graphical Models
 - Kernel Methods
 
 # Education to show in About widget
