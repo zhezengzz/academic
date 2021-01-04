@@ -21,7 +21,7 @@ interests:
 - Artificial Intelligence
 - Probabilistic Inference
 - Weighted Model Integration
-- SMT constraints
+- SMT Constraints
 - Probabilistic Graphical Models
 - Kernel Methods
 
