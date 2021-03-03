@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I'm Zhe Zeng; thanks for visiting my homepage. I'm a third year Ph.D. student in Computer Science at University of [California, Los Angeles (UCLA)](https://samueli.ucla.edu/). It's very lucky for me to be advised by Professor [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) and to be a member of [Statistical and Relational Artificial Intelligence (StarAI) Lab](http://starai.cs.ucla.edu/)✨.
+Hi! I'm Zhe Zeng; thanks for visiting my homepage. I'm a third year Ph.D. student in Computer Science at [University of California, Los Angeles (UCLA)](https://samueli.ucla.edu/). It's very lucky for me to be advised by Professor [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) and to be a member of [Statistical and Relational Artificial Intelligence (StarAI) Lab](http://starai.cs.ucla.edu/)✨🐻✨.
 
 My research interests primarily lie in the intersection of Artificial Intelligence and formal methods. The goal of my research is to combine probabilistic and formal verification techniques to deal with both uncertainty as well as relational structure, and to build AI systems that are able to efficiently and reliably make inference and learn from heterogeneous data.
 
