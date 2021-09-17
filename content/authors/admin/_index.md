@@ -14,7 +14,7 @@ organizations:
   url: https://samueli.ucla.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include probabilistic inference, probabilistic graphical models, knowledge compilation, and formal methods.
+bio: My research interests lie in the intersection of machine learning (tractable probabilistic modeling, statistical relational learning, graphical models, Bayesian deep learning, kernel and non-parametric methods) and formal methods.
 
 # Interests to show in About widget
 interests:
@@ -73,9 +73,9 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I'm Zhe Zeng; thanks for visiting my homepage. I'm a third year Ph.D. student in Computer Science at [University of California, Los Angeles (UCLA)](https://samueli.ucla.edu/). It's very lucky for me to be advised by Professor [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) and to be a member of [Statistical and Relational Artificial Intelligence (StarAI) Lab](http://starai.cs.ucla.edu/)✨🐻✨.
+Hi! I'm Zhe Zeng; thanks for visiting my homepage. I'm a fourth year Ph.D. student in Computer Science at [University of California, Los Angeles (UCLA)](https://samueli.ucla.edu/). It's very lucky for me to be advised by Professor [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) and to be a member of [Statistical and Relational Artificial Intelligence (StarAI) Lab](http://starai.cs.ucla.edu/)✨🐻✨.
 
-My research interests primarily lie in the intersection of Artificial Intelligence and formal methods. The goal of my research is to combine probabilistic and formal verification techniques to deal with both uncertainty as well as relational structure, and to build AI systems that are able to efficiently and reliably make inference and learn from heterogeneous data.
+My research interests primarily lie in the intersection of Artificial Intelligence and formal methods. The goal of my research is to combine probabilistic and formal verification techniques to deal with both uncertainty as well as relational structure, and to enable AI systems to efficiently and reliably learn and infer from noisy, structured, and mixed discrete-continuous data.
 
 I received my bachelor's degree in Mathematics at [Zhejiang University](http://www.zju.edu.cn/).
 As an undergraduate student, I was lucky to collaborate with Professor [Qiang Liu](https://www.cs.utexas.edu/~lqiang/) at [Dartmouth College](http://home.dartmouth.edu/) in theory and methods for robust, scalable, and nonparametric variational inference.

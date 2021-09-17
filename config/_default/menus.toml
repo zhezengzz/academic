@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Experience"
+  url = "#experience"
+  weight = 15
+
+[[main]]
   name = "Publications"
   url = "#featured"
   weight = 20
@@ -17,6 +22,11 @@
   name = "Talks"
   url = "#talks"
   weight = 30
+
+[[main]]
+  name = "Awards"
+  url = "#awards"
+  weight = 40
 
 [[main]]
   name = "Service"
